@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj",ANN JapaNews24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/TmfzUkU.png",Aomori TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/DuGepQp.jpg",Asahi Shimbun Digital (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/R7qR9pe.png",BS11 (720p)
+http://203.162.235.41:25104
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/huXFL3A.png",BS Asahi (720p)
+http://203.162.235.41:29108
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/aDdwjjc.png",BS Fuji TV (720p)
+http://203.162.235.41:22101
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/D8lhZCI.png",BS Nippon TV (720p)
+http://203.162.235.41:24103
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/h20eGKq.png",BS TBS (720p)
+http://203.162.235.41:26105
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo (720p)
+http://203.162.235.41:23102
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/RWlrQEm.png",BSN (Youtube) (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/fSNc0jP.png",Chukyo TV News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/sEWDmMD.png",Fuji TV (Tokyo) (720p)
+http://203.162.235.41:15094
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/01Jsa2Z.png",Golf Network (720p)
+http://203.162.235.41:28107
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/vcGsZVD.png",HBC Hokkaido News 24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/G8lAJYc.png",Hokkaido News UHB (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/RT0vW2v.jpg",HOME Hiroshima News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/yqUItvM.png",HTB Hokkaido News 24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/wg9wzkc.png",IBC 6 Box (Youtube) (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMbq0m2vILQTbc0VhOcVWaQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/bIc4DwU.png",Iwate Menkoi Television (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/RxHI8OZ.jpg",KBC News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/140px-Mainichi_Broadcasting_System_logo.svg.png?20110904042013",MBS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/QP0lqYn.jpg",Mētele News Live 24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/t0uZcSR.png",NHK BS (720p)
+http://203.162.235.41:20099
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (576p)
+http://203.162.235.41:12091
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G (Tokyo) (720p)
+http://203.162.235.41:14093
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/5dJE8Fc.jpg",Niigata News NST (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/IxD8V5X.png",Nippon TV (720p)
+http://203.162.235.41:16095
+#EXTINF:-1 group-title="日语" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/SwheroL.jpg",Pokémon Kids TV Japanese (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/SHmYLML.jpg",RKB NEWS 24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgrmHAblzN-QzMMgl2oNRog.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/PxFcRh9.jpg",SATV News 24H (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg",STV News Hokkaido (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/dUn2GRn.png",TBS (720p)
+http://203.162.235.41:18097
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/JBkXyvj.jpg",TOS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/zjEYDK9.png",Tulip TV (Youtube) (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/YCqB5Kj.png",TV Asahi (720p)
+http://203.162.235.41:17097
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/HxBu6ce.png",TV Shizuoka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo (720p)
+http://203.162.235.41:19098
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/9yZe76d.png",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/A8uRSTS.png",Weathernews (1080p)
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 group-title="日语" tvg-logo="https://i.imgur.com/vACq7w8.png",WOWOW Prime (720p)
+http://203.162.235.41:27106

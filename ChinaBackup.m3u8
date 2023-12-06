@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 group-title="中国"tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
+https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
+#EXTINF:-1 group-title="中国" tvg-logo="https://imgur.com/65OdQEm.png",第一财经
+https://epg.pw/stream/0c47e78e04009991d226a5e6daa726fd3340fec1f335acffae2b085493c8ab33.m3u8
+#EXTINF:-1 group-title="中国" tvg-logo="https://imgur.com/dRtE1im.png",上海纪实人文
+https://epg.pw/stream/ce4003fd26c3b85ba338899afb61b6342daa5dd7274aedfa891b5beba6e00b59.m3u8
+#EXTINF:-1 group-title="中国"tvg-logo="https://imgur.com/52FHFNR.png",上海都市
+https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视.png",凤凰卫视
+http://210.210.155.37/session/a622179a-9244-11ee-b05f-94bbb62a0b86/uq2663/h/h157/S4/mnf.m3u8
